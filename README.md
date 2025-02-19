@@ -9,7 +9,7 @@ To encourage the design of custom instruments based on the Striso board the desi
 ## Design
 The duet is a wooden body on which two Striso boards can be mounted to play with two hands in a concertina/bandoneon/accordion style. The body is made from 3mm birch multiplex and the design is cut and engraved with a laser cutter.
 
-The design is made in [Inkscape](www.inkscape.org), and is currently optimized for cutting almost 4 duets out of a 67x67cm board. For cutting 1 duet the parts should be repositioned. The black lines are cut, the blue lines are engraved, and the green lines are engraved out of focus, to have thicker lines.
+The laser cutting design is made in [Inkscape](www.inkscape.org), and is currently optimized for cutting almost 4 duets out of a 67x67cm 3mm multiplex board. For cutting one duet you should reposition the parts. The black lines are cut, the blue lines are engraved, and the green lines are engraved out of focus, to have thicker lines.
 
 The PCBs are designed in EasyEDA. (Normally I'd use KiCAD, but for these simple PCBs I was drawn to EasyEDA for its integrated fabrication service and related parts library).
 
